@@ -1,0 +1,18 @@
+﻿.basicBindingInputs li
+{
+    list-style: none;
+    padding-bottom: 0.5em;
+}
+
+.basicBindingInputs label
+{
+    margin-right: 1em;
+}
+
+.basicBindingOutput
+{
+    margin-left: 1em;
+    background-color: #CCCCCC;
+    color: black;
+}
+
